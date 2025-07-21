@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+}
+.heading{
+    text-align: center;
+}
+.form{
+    padding: 1rem;
+    width: 30rem;
+}
+.Organization{
+    font-size: 1rem;
+   
+}
+input{
+    border: 2px solid green;
+}
+.Organization-field{
+    font-size: 1rem;
+    width: 100%;
+    padding: 0.3rem;
+    margin: .5rem 0rem;
+    box-sizing: border-box;
+   
+  
+}
+.form-outer-div{
+    display: flex;
+    justify-content: center;
+}
+.place{
+    width: 46.75%;
+    padding: 0.3rem;
+    font-size: 1rem;
+
+}
+
